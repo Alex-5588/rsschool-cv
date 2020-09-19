@@ -4,7 +4,9 @@
 4. HTML5, CSS3, Bootstrap 4, Flexbox, CSS Grid Layout, Basic JS, Linux, Git, Wordpress, SEO.
 5. Примеры кода: 
 6. My projects on freelance:
-
+    *    <https://gazifikaciya-nn.ru/>
+    *    <https://art-avto52.ru/>
+    *    <https://aps-grypp-52.ru/>
 7. Incomplete higher education engineering faculty. Course web-developer from Udemy. 
 8. Spoken english (level- C2). Read and understand technical documentation
  
