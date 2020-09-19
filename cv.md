@@ -2,7 +2,7 @@
 2. e-mail: <a.webdev@yandex.ru>
 3. My goal is a thorough, high-quality study of Javascript. First of all, I want to develop as a front-end developer. Next, become a full-stack javascript developer. I am quite confident in typesetting. I love to learn new things and apply it in practice.
 4. HTML5, CSS3, Bootstrap 4, Flexbox, CSS Grid Layout, Basic JS, Linux, Git, Wordpress, SEO.
-5. Примеры кода: 
+5. Code examples (will be later)
 6. My projects on freelance:
     *    <https://gazifikaciya-nn.ru/>
     *    <https://art-avto52.ru/>
