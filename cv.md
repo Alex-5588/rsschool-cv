@@ -1,8 +1,10 @@
 1. Aleksey Drebezov
 2. e-mail: <a.webdev@yandex.ru>
-3. Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-4. Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-5. Примеры кода
-6. Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.*
-7. Образование (включая курсы, семинары, лекции, онлайн-обучение)
-8. Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+3. My goal is a thorough, high-quality study of Javascript. First of all, I want to develop as a front-end developer. Next, become a full-stack javascript developer. I am quite confident in typesetting. I love to learn new things and apply it in practice.
+4. HTML5, CSS3, Bootstrap 4, Flexbox, CSS Grid Layout, Basic JS, Linux, Git, Wordpress, SEO.
+5. Примеры кода: 
+6. My projects on freelance:
+
+7. Incomplete higher education engineering faculty. Course web-developer from Udemy. 
+8. Spoken english (level- C2). Read and understand technical documentation
+ 
